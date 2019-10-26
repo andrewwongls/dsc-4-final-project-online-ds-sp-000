@@ -1,3 +1,15 @@
+###########################################
+
+Author:
+
+Andrew Wong
+
+Email: andrewwongls@outlook.com
+
+Medium Blog: https://medium.com/human-science-ai
+
+###########################################
+
 
 # An Aspiring Product Data Scientist Journey - From Understanding Borroweers' Profile to Dynamic Downward Rates Adjustment
 
